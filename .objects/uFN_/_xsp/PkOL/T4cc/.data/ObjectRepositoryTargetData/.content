@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dXDBUgf-cE-veRIqf_sQEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com" CVScreenId="bc21fefd-df61-4f85-b7eb-cdf6801e03d2" CvElementArea="1227, 133, 113, 56" CvTextArea="1257, 151, 52, 22" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="1232, 136, 103, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='login_Layer' tag='A' type='' class='nI-gNb-lg-rg__login' aaname='Login' check:innerText='Login' /&gt;" Guid="01c8f40f-40f3-4a4e-843f-b41368f5491b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bc21fefd-df61-4f85-b7eb-cdf6801e03d2" CvElementArea="1343, 134, 135, 55" CvTextArea="1371, 151, 78, 23" CvTextArgument="Register" CvType="Button" DesignTimeRectangle="1347, 136, 126, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='register_Layer' tag='A' type='' class='nI-gNb-lg-rg__register' aaname='Register' check:innerText='Register' /&gt;" Guid="81d60c01-0c5a-410b-9d27-afbd68f7a00b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f8dc4d11c558a6f57f06f29c5334775d.png" xmlns="">0gcanymA4PUuRkOrP0SqKlg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Profile  Mynaukri",
+  "Type": "Screen",
+  "Id": "NxLiNMBJwUeZh2ZtIzd27w",
+  "Reference": "xQzRa8YKxUag3fS6J9-Y2Q/NxLiNMBJwUeZh2ZtIzd27w",
+  "ParentRef": "xQzRa8YKxUag3fS6J9-Y2Q/_xspm_yn1kOduoMNfgcq7A",
+  "Created": "2025-03-03T04:29:42.5800184Z",
+  "Updated": "2025-03-03T04:29:42.5800184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

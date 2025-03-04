@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KdXgc2_bc0mYqZTcbRpZCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="589f94f2-819f-44ce-91c4-9c64c0862a07" CvTextArea="1534, 202, 88, 17" CvTextArgument="Hello, sign in" CvType="Text" DesignTimeRectangle="1534, 202, 88, 17" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="25bc4b55-73ed-4578-92ce-a3cf0a5d8949" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="589f94f2-819f-44ce-91c4-9c64c0862a07" CvElementArea="1660, 217, 23, 23" CvTextArea="1532, 219, 128, 16" CvTextArgument="Account &amp; Lists" CvType="ArrowButton" DesignTimeRectangle="1535, 218, 142, 19" FuzzySelectorArgument="&lt;webctrl aaname='Account &amp;amp; Lists   ' parentid='nav-link-accountList' tag='SPAN' type='' class='nav-line-2 ' check:innerText='Account &amp;amp; Lists' /&gt;" Guid="38f9373a-6ecd-4b61-a352-c1705fe38a97" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fd4e5108d9e0e9a2e509e113a71c87ee.png" xmlns="">0qB0bStvo7Ei_9lkr-a0ZuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

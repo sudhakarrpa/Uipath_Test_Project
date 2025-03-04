@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3OO268p2mECuOU4GQ3nydg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="cd78352f-f866-41bb-aefc-549db4e11f79" CvElementArea="783, 478, 372, 43" CvTextArea="942, 491, 53, 18" CvTextArgument="Sign in" CvType="Button" DesignTimeRectangle="785, 482, 368, 36" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='signInSubmit' tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="b5722962-cb6e-407f-a570-7fcac55a83a9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cd78352f-f866-41bb-aefc-549db4e11f79" CvElementArea="782, 589, 373, 42" CvTextArea="870, 600, 197, 18" CvTextArgument="Get an OTP on your phone" CvType="Button" DesignTimeRectangle="785, 591, 368, 36" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='continue' tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="f25d12a1-b2f5-47d1-ae61-e87d5a7f8c69" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4b2369da505b5843a837f9cee31cd737.png" xmlns="">0kxkiJm6Hdkq-rQSHGMDI4w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QBpj-P2AXEKMDiLHqLvjQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="9c9382b0-f677-4673-aaa0-db01f8247ed5" CvTextArea="262, 482, 320, 26" CvTextArgument="Shop online at Amazon India" CvType="Text" DesignTimeRectangle="265, 479, 318, 28" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Shop online at Amazon India' parentid='tads' tag='SPAN' type='' class='' check:innerText='Shop online at Amazon India' /&gt;" Guid="be844304-1b34-4fb1-a7a7-37437d46688c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon india - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c9382b0-f677-4673-aaa0-db01f8247ed5" CvTextArea="311, 425, 86, 16" CvTextArgument="Amazon.in" CvType="Text" DesignTimeRectangle="314, 424, 83, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='OSrXXb' parentid='tads' tag='SPAN' type='' aaname='Amazon.in' check:innerText='Amazon.in' /&gt;" Guid="2ffc462c-c2ec-44aa-b0df-d256526a7d31" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9deaed17eefc5ff214cf3ac31951ecb.png" xmlns="">0T-r5sPcsb0OmmpUrAGpSGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

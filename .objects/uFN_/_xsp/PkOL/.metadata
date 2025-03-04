@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Jobs - Recruitment - Job Search - Empl",
+  "Type": "Screen",
+  "Id": "PkOLf6_E0Uqe8SHyNJWu_g",
+  "Reference": "xQzRa8YKxUag3fS6J9-Y2Q/PkOLf6_E0Uqe8SHyNJWu_g",
+  "ParentRef": "xQzRa8YKxUag3fS6J9-Y2Q/_xspm_yn1kOduoMNfgcq7A",
+  "Created": "2025-03-01T05:02:40.0150004Z",
+  "Updated": "2025-03-01T05:02:40.0150004Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

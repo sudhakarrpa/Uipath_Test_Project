@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BKTGTwtyski7hAukunDLXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="cd78352f-f866-41bb-aefc-549db4e11f79" CvElementArea="781, 410, 375, 45" CvType="InputBox" DesignTimeRectangle="784, 412, 370, 39" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl id='ap_password' tag='INPUT' type='password' class='a-input-text a-span12 auth-autofocus auth-required-field' aaname='                                 Password                                      ' /&gt;" Guid="1a3cea4a-788c-4978-980f-6f9b56f6e83d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cd78352f-f866-41bb-aefc-549db4e11f79" CvTextArea="785, 387, 78, 17" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="784, 384, 150, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='a-form-label' aaname='                                 Password                                      ' check:innerText='Password' /&gt;" Guid="603a4878-b2c0-49c0-b9c9-0dfe5728f3c8" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="cd78352f-f866-41bb-aefc-549db4e11f79" CvTextArea="781, 290, 109, 38" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="784, 284, 370, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='a-spacing-small' aaname='           Sign in         ' check:innerText='Sign in' /&gt;" Guid="d4a552de-db62-41d6-a361-e724d495f729" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3f075224aeccb24fd1f74e7ec86f2096.png" xmlns="">0i3vyWhvRcUmQDjUtmrRyAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

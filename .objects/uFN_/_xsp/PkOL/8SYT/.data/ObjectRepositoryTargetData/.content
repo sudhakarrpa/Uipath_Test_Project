@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aUSb5fU6EkeYlEcrr4tCTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com/mnjuser/profile" CVScreenId="9c19cb70-7774-4dbb-8cf1-44b6b7b22a92" CvTextArea="611, 827, 213, 22" CvType="AnyWordGroup" DesignTimeRectangle="614, 825, 337, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='lazyAttachCV' tag='DIV' type='' class='updateOn typ-14Regular' /&gt;" Guid="0df274b8-3449-4bc4-a397-0ba798dae36e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Profile | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c19cb70-7774-4dbb-8cf1-44b6b7b22a92" CvTextArea="282, 637, 116, 22" CvTextArgument="Quick links" CvType="Text" DesignTimeRectangle="285, 634, 248, 29" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl parentid='root' tag='LI' type='' class='collection-header typ-18Bold' aaname='Quick links' check:innerText='Quick links' /&gt;" Guid="63e669ea-0172-4f45-a2f7-2a9ed3a4032f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="883e5956eb27a9e49eb925ceb5e37b2a.png" xmlns="">0u1LubeifakaZBwFzlvCRCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

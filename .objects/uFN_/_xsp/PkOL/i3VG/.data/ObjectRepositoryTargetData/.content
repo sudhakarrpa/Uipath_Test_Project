@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OdFJ2102P0SUJfCMMH3EUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com/mnjuser/profile" CVScreenId="be4dfbc5-f2c9-49d7-bde1-53844fb376dd" CvElementArea="1546, 132, 112, 60" CvType="Button" DesignTimeRectangle="1562, 151, 25, 25" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='nI-gNb-drawer__bars' parentid='ni-gnb-header-section' tag='DIV' type='' aaname='' /&gt;" Guid="6fa66e14-3881-4b90-9ee5-85e2a8050f74" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Profile | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="be4dfbc5-f2c9-49d7-bde1-53844fb376dd" CvElementArea="1315, 133, 140, 59" CvTextArea="1330, 152, 107, 20" CvTextArgument="naukri 360" CvType="Button" DesignTimeRectangle="1332, 152, 105, 19" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='naukri360-pill' tag='IMG' type='' class='' /&gt;" Guid="9e3114a7-9157-490e-b0f0-cac4569a5e28" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c565742deae4f2d8ab0796bbc6ff6fa8.png" xmlns="">0C_LQSSmWQEmdnynpc0eOzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

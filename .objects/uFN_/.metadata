@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com",
+  "Type": "App",
+  "Id": "uFN_BHggfE26YhcpVu6SWQ",
+  "Reference": "xQzRa8YKxUag3fS6J9-Y2Q/uFN_BHggfE26YhcpVu6SWQ",
+  "Created": "2025-03-01T05:02:39.9375411Z",
+  "Updated": "2025-03-01T05:02:39.9375411Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

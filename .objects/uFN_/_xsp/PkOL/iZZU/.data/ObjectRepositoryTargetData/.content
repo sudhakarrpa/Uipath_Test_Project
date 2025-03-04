@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vJLAanKP3EeLFIB-GQhoHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com" CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvElementArea="1353, 405, 516, 58" CvType="InputBox" DesignTimeRectangle="1354, 406, 513, 55" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='' placeholder='Enter your password' aaname='' /&gt;" Guid="c0d55fcc-3718-4dd9-a441-9b168f121c0f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvTextArea="1354, 379, 78, 17" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="1354, 376, 513, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='label' check:innerText='Password' /&gt;" Guid="4cdca5ef-c6af-4f22-bdaa-7456ca3dd2ec" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvTextArea="1354, 379, 78, 17" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="1354, 378, 78, 17" ElementType="Text" Guid="a4efd6cd-aaee-40d9-b6f9-e2b26f21f5e0" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f8b12e927c6e29fafb30aeb4faf2abdc.png" xmlns="">0MW_76EdJq0ypqd7uW5sE_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

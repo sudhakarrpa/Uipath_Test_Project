@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Shop online at Amazon I…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "oCC6L7j0Ak6Z9_2SniwVHg",
+  "Reference": "xQzRa8YKxUag3fS6J9-Y2Q/oCC6L7j0Ak6Z9_2SniwVHg",
+  "ParentRef": "xQzRa8YKxUag3fS6J9-Y2Q/KfUD1rLHHUKQbo-ZFcFksg",
+  "Created": "2025-03-01T01:58:58.7435365Z",
+  "Updated": "2025-03-01T01:58:58.7435365Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0KHKw-RZbUOPSCsK0Fqdcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com" CVScreenId="1a61246e-7867-4a95-b162-72d07bcb3c3e" CvElementArea="1352, 513, 517, 55" CvTextArea="1584, 529, 53, 25" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="1354, 515, 513, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn-primary loginButton' aaname='Login' check:innerText='Login' /&gt;" Guid="7c08b7f3-9db7-460f-93b3-2100ccfecc12" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1a61246e-7867-4a95-b162-72d07bcb3c3e" CvTextArea="1529, 605, 162, 23" CvTextArgument="Use OTP to Login" CvType="Text" DesignTimeRectangle="1354, 602, 513, 25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Use OTP to Login' tag='BUTTON' type='' class='btn-primary waves-effect waves-light btn-large btn-block btn-bold otpButton textTransform' check:innerText='Use OTP to Login' /&gt;" Guid="7455bd4f-5ceb-4ce5-ab74-a3f186c2bf7f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="130447957f6eb7682197bcf9f75f7d14.png" xmlns="">0BaZN4HUXwUeZSFgnDtjpzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

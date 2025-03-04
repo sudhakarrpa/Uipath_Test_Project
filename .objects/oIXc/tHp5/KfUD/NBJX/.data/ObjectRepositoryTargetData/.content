@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2Me6SB2wAUyEZtldXgal0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="2170d3fe-d701-4675-a4df-01ad3494a9ea" CvElementArea="779, 369, 377, 45" CvType="InputBox" DesignTimeRectangle="784, 372, 370, 39" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email' tag='INPUT' type='email' class='a-input-text a-span12 auth-autofocus auth-required-field auth-require-claim-validation' aaname='               Email or mobile phone number             ' /&gt;" Guid="195fdb6b-bf9e-467f-9f3b-d9bf273bac92" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2170d3fe-d701-4675-a4df-01ad3494a9ea" CvTextArea="785, 347, 258, 18" CvTextArgument="Email or mobile phone number" CvType="Text" DesignTimeRectangle="784, 344, 370, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='a-form-label' aaname='               Email or mobile phone number             ' check:innerText='Email or mobile phone number' /&gt;" Guid="6710769d-a94d-4598-a620-cafe10b411b4" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="2170d3fe-d701-4675-a4df-01ad3494a9ea" CvTextArea="781, 290, 109, 38" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="784, 284, 370, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='a-spacing-small' aaname='             Sign in           ' check:innerText='Sign in' /&gt;" Guid="519ff2a7-e13f-471f-b79a-f0e76c91ed3d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="451769121db6ebe556073848853b0a7f.png" xmlns="">0eVcOcwE4ZUaaduUVTOCfkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

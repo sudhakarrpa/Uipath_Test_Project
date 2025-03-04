@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ryzsb78bn0CnXi2ydQJ2oA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com/mnjuser/profile" CVScreenId="2d6d6c93-16c8-4687-97b6-ffd8268c6f6d" CvTextArea="611, 827, 213, 22" CvType="AnyWordGroup" DesignTimeRectangle="614, 825, 337, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='lazyAttachCV' tag='DIV' type='' class='updateOn typ-14Regular' /&gt;" Guid="9d582113-bcbc-418d-ac78-350f6a2aa691" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Profile | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1040, 917, 162, 39" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='button' class='dummyUpload typ-14Bold' aaname='Update resume' check:text='Update resume' /&gt;" Guid="f85fec79-5823-4bec-81e3-394b99d00d59" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="72ee731d745555d787694a74e55db9bc.png" xmlns="">0MAXha2u12U66zcsSIl9fMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

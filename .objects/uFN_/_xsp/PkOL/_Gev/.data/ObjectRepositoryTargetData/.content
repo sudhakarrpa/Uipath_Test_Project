@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N0G-rQhNLEaG3GDuHEXg6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com/mnjuser/profile" CVScreenId="1fdc8962-e96c-4eeb-a8c8-3c845bb58fc5" CvTextArea="611, 495, 213, 20" CvType="AnyWordGroup" DesignTimeRectangle="614, 492, 337, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='lazyAttachCV' tag='DIV' type='' class='updateOn typ-14Regular' /&gt;" Guid="bb0e3a44-d0be-43d8-94b3-99a4f214219b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Profile | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1fdc8962-e96c-4eeb-a8c8-3c845bb58fc5" CvTextArea="612, 417, 75, 18" CvTextArgument="Resume" CvType="Text" DesignTimeRectangle="614, 414, 1015, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Resume' parentid='lazyAttachCV' tag='DIV' type='' class='s12 typ-16Bold' check:innerText='Resume' /&gt;" Guid="f8010144-04f6-49db-bd61-1e99ed290d08" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d0e532c96d37f105b7b9393879d62477.png" xmlns="">0bLBUKVZjpkqYv0xTO5dPcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

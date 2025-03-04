@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Update resume",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "RfX6gWGFWEOuzXfxYwO2jQ",
+  "Reference": "xQzRa8YKxUag3fS6J9-Y2Q/RfX6gWGFWEOuzXfxYwO2jQ",
+  "ParentRef": "xQzRa8YKxUag3fS6J9-Y2Q/PkOLf6_E0Uqe8SHyNJWu_g",
+  "Created": "2025-03-01T11:56:32.6261066Z",
+  "Updated": "2025-03-01T11:56:32.6261066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

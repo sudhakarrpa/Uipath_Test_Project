@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eRFte9vUj0Wm3hD7V7a07Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com/mnjuser/homepage" CVScreenId="be0b0c42-1f57-4a5b-8665-de7f573d76e4" CvTextArea="1594, 279, 179, 17" CvTextArgument="View &amp; Update Profile" CvType="Text" DesignTimeRectangle="1595, 276, 308, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='nI-gNb-info__sub-link' tag='A' type='' aaname='View &amp;amp; Update Profile' check:innerText='View &amp;amp; Update Profile' /&gt;" Guid="89818c21-579c-45cf-a661-493e460c1a03" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home | Mynaukri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="be0b0c42-1f57-4a5b-8665-de7f573d76e4" CvTextArea="1465, 354, 234, 22" CvTextArgument="Your profile performance" CvType="Text" DesignTimeRectangle="1467, 350, 233, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='nI-gNb-wrapper-heading' tag='DIV' type='' aaname='Your profile performance' check:innerText='Your profile performance' /&gt;" Guid="969f782a-58da-4f96-a1d5-42f5dd57d689" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1070f6bdea85bea01f7095c2a1e4b60f.png" xmlns="">0fXRHqdbE6k2ILfMvOJ_aoQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F7z5paMi4E2ptwOWMX38CA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="eddd22d8-fbae-475b-8fbf-31cb452bc287" CvElementArea="781, 424, 374, 42" CvTextArea="935, 437, 68, 15" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="785, 427, 368, 36" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='continue' tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="95e77cc8-a0e4-444e-9b55-c0465a8c4885" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="eddd22d8-fbae-475b-8fbf-31cb452bc287" CvTextArea="781, 290, 109, 38" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="784, 284, 370, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='a-spacing-small' aaname='             Sign in           ' check:innerText='Sign in' /&gt;" Guid="99860433-5a60-452d-b345-264b4eacd214" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e24a4f851d84d89c98ab45cc41b2535c.png" xmlns="">0rO4g_rOzXk-Tp_5qXfdNoQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

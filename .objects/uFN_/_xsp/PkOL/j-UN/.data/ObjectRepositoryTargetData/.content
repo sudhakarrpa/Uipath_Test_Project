@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nEZhW0EVB0CZulYk8fFi3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="naukri.com" CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvElementArea="1354, 281, 514, 58" CvType="InputBox" DesignTimeRectangle="1354, 282, 513, 55" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='' placeholder='Enter your active Email ID / Username' aaname='' /&gt;" Guid="502eed58-afc2-4294-971f-8a57c53cb7ee" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Jobs - Recruitment - Job Search - Employment - Job Vacancies - Naukri.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvTextArea="1354, 255, 166, 17" CvTextArgument="Email ID / Username" CvType="Text" DesignTimeRectangle="1354, 252, 513, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='label' aaname='Email ID / Username' check:innerText='Email ID / Username' /&gt;" Guid="a394e28e-dd1c-4a5c-9240-cfb2145fa2d0" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="1ac27b07-0d4c-4a94-9d4d-24dc493cf4ad" CvTextArea="1354, 255, 166, 17" CvTextArgument="Email ID / Username" CvType="Text" DesignTimeRectangle="1354, 254, 166, 17" ElementType="Text" Guid="452b6b21-cc8f-4f8c-8fbb-73195b7c8d02" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4649d187653f3550abdd6365a2694ddb.png" xmlns="">0W4QFtFble02ZZg7pmFAkjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
